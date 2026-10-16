@@ -34,3 +34,15 @@
    ```bash
    git clone [https://github.com/Jabiv-Solutions/InventoryFull-OpenSource.git](https://github.com/Jabiv-Solutions/InventoryFull-OpenSource.git)
    cd InventoryFull-OpenSource
+
+📜 Licencia & Créditos
+Este proyecto está liberado bajo la licencia MIT con Atribución Obligatoria. Puedes usarlo, estudiarlo y modificarlo libremente.
+
+Condición: Cualquier redistribución, modificación o proyecto derivado debe conservar los créditos originales al autor (Jose Andres / Jabiv) tanto en las cabeceras del código fuente como en la interfaz gráfica del sistema.
+
+🌐 Redes Sociales y Contacto
+YouTube: @Jabiv_Oficial
+
+Instagram: @jabiv_oficial
+
+TikTok: @jabiv_oficial
