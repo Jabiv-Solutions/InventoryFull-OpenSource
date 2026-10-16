@@ -1,11 +1,21 @@
 # 🛒 Inventory Full - Sistema ERP & POS Multidivisa
 
 ![Licencia](https://img.shields.io/badge/Licencia-MIT--Attribution-emerald?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Estado](https://img.shields.io/badge/Versi%C3%B3n-Ejecutable_.exe-blue?style=for-the-badge)
+![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Inventory Full** es un sistema ERP de escritorio y Punto de Venta (POS) pensado para pequeñas y medianas empresas. Permite gestionar ventas, inventario, cierres de caja, gastos operativos y créditos en tiempo real con un potente motor **multidivisa** (Dólares, Bolívares y Pesos Colombianos).
+**Inventory Full** es un sistema ERP de escritorio y Punto de Venta (POS) pensado para pequeñas y medianas empresas. Funciona de manera local, liviana y cuenta con un potente motor **multidivisa** (Dólares, Bolívares y Pesos Colombianos).
+
+---
+
+## 🚀 Descarga e Instalación Rápida (Sin instalar nada)
+
+No necesitas instalar Python, ni librerías, ni configurar código.
+
+1. **Descarga la versión ejecutable (`.exe`):**
+   👉 **[Haz clic aquí para descargar el ejecutable en Releases](https://github.com/Jabiv-Solutions/InventoryFull-OpenSource/releases)** *(o descarga desde la sección de adjuntos del proyecto)*.
+2. **Ejecuta el programa:**
+   Haz doble clic sobre `InventoryFull.exe` y el sistema abrirá la pantalla principal de forma automática.
 
 ---
 
@@ -28,21 +38,16 @@
 
 ---
 
-## ⚙️ Instalación Rápida (Entorno de Desarrollo)
+## 📜 Licencia & Créditos
 
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/Jabiv-Solutions/InventoryFull-OpenSource.git](https://github.com/Jabiv-Solutions/InventoryFull-OpenSource.git)
-   cd InventoryFull-OpenSource
+Este proyecto está liberado bajo la **licencia MIT con Atribución Obligatoria**. Puedes usarlo, estudiarlo y compartirlo libremente.
 
-📜 Licencia & Créditos
-Este proyecto está liberado bajo la licencia MIT con Atribución Obligatoria. Puedes usarlo, estudiarlo y modificarlo libremente.
+> **Condición:** Cualquier redistribución, modificación o proyecto derivado debe conservar los créditos originales al autor (**Jose Andres / Jabiv**) tanto en el código fuente como en la interfaz gráfica del sistema.
 
-Condición: Cualquier redistribución, modificación o proyecto derivado debe conservar los créditos originales al autor (Jose Andres / Jabiv) tanto en las cabeceras del código fuente como en la interfaz gráfica del sistema.
+---
 
-🌐 Redes Sociales y Contacto
-YouTube: @Jabiv_Oficial
+## 🌐 Redes Sociales y Contacto
 
-Instagram: @jabiv_oficial
-
-TikTok: @jabiv_oficial
+- 📺 **YouTube:** [@Jabiv_Oficial](https://www.youtube.com/@Jabiv_Oficial)
+- 📷 **Instagram:** [@jabiv_oficial](https://instagram.com/jabiv_oficial)
+- 🎵 **TikTok:** [@jabiv_oficial](https://tiktok.com/@jabiv_oficial)
