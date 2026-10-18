@@ -1,4 +1,4 @@
-# 🛒 Inventory Full - Sistema ERP & POS Multidivisa
+# 🛒 Inventory Full - Community Edition
 
 ![Licencia](https://img.shields.io/badge/Licencia-MIT--Attribution-emerald?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Versi%C3%B3n-Ejecutable_.exe-blue?style=for-the-badge)
@@ -12,7 +12,7 @@
 
 ¡No necesitas saber programar ni instalar Python! Descarga el programa empaquetado en `.exe` listo para usar en tu negocio:
 
-📦 **[DESCARGAR INVENTORY FULL (.ZIP / .EXE)](https://www.mediafire.com/file/dtcl9ib6kzdsz3e/Inventory_Full.zip/file)**
+📦 **[DESCARGAR INVENTORY FULL (.ZIP / .EXE)](https://www.mediafire.com/file/1bgi9o4hjtxniaz/Inventory_Full_Community_Edition.zip/file)**
 
 > **¿Cómo usarlo?**
 > 1. Descarga el archivo comprimido desde el enlace de arriba.
