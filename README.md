@@ -59,4 +59,4 @@ Sigue el proyecto y apoya el desarrollo de más herramientas de software libre:
 - 🎵 **TikTok:** [@jabiv_oficial](https://tiktok.com/@jabiv_oficial)
 
 ---
-*Creado con ❤️ por Jose Andres Bracho Villasmil (Jabiv).*
+*Creado con ❤️ por José Andrés Bracho Villasmil (Jabiv).*
